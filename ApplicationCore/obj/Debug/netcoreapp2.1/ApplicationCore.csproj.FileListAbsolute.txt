@@ -1,0 +1,9 @@
+C:\Projects\HighScoreLab.WebApp\ApplicationCore\bin\Debug\netcoreapp2.1\ApplicationCore.deps.json
+C:\Projects\HighScoreLab.WebApp\ApplicationCore\bin\Debug\netcoreapp2.1\ApplicationCore.dll
+C:\Projects\HighScoreLab.WebApp\ApplicationCore\bin\Debug\netcoreapp2.1\ApplicationCore.pdb
+C:\Projects\HighScoreLab.WebApp\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.csprojAssemblyReference.cache
+C:\Projects\HighScoreLab.WebApp\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Projects\HighScoreLab.WebApp\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Projects\HighScoreLab.WebApp\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.AssemblyInfo.cs
+C:\Projects\HighScoreLab.WebApp\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.dll
+C:\Projects\HighScoreLab.WebApp\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.pdb

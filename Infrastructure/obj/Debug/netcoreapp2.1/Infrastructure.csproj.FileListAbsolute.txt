@@ -1,0 +1,12 @@
+C:\Projects\HighScoreLab.WebApp\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.deps.json
+C:\Projects\HighScoreLab.WebApp\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.dll
+C:\Projects\HighScoreLab.WebApp\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.pdb
+C:\Projects\HighScoreLab.WebApp\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csprojAssemblyReference.cache
+C:\Projects\HighScoreLab.WebApp\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\HighScoreLab.WebApp\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\HighScoreLab.WebApp\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfo.cs
+C:\Projects\HighScoreLab.WebApp\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.dll
+C:\Projects\HighScoreLab.WebApp\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.pdb
+C:\Projects\HighScoreLab.WebApp\Infrastructure\bin\Debug\netcoreapp2.1\ApplicationCore.dll
+C:\Projects\HighScoreLab.WebApp\Infrastructure\bin\Debug\netcoreapp2.1\ApplicationCore.pdb
+C:\Projects\HighScoreLab.WebApp\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CopyComplete
